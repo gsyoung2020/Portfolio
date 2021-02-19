@@ -1,0 +1,14 @@
+@charset "utf-8";
+/* CSS Document */
+ul.nav-bar {
+    list-style-type: none;
+}
+
+.nav-bar a{
+	padding: 10px;
+}
+
+ul{
+list-style-type: none;	
+}
+
